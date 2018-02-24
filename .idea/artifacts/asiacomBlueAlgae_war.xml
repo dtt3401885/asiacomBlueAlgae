@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="asiacomBlueAlgae:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="blueAlgae.war">
+      <element id="artifact" artifact-name="asiacomBlueAlgae:war exploded" />
+    </root>
+  </artifact>
+</component>
